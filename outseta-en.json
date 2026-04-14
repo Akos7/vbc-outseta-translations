@@ -361,7 +361,7 @@
   "Properties": {
     "Account_BillingAddress": "Billing address",
     "Account_MailingAddress": "Mailing address",
-    "Account_Name": "Organization",
+    "Account_Name": "Organization name",
     "Account_TaxId": "Tax Id",
     "Account_TaxIdType": "Tax Id type",
     "AddressLine1": "Address line 1",
